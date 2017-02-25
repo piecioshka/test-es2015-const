@@ -1,4 +1,4 @@
-# test-es6-const
+# test-es2015-const
 
 I would like create 'app' which have definition of one constant defined by:
 
